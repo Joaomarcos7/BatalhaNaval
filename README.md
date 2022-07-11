@@ -6,6 +6,6 @@ Bibliotecas usadas:
 -Pygame
 -time
 
-Obs:instalar o pacote pygame pra rodar o jogo com os sons.
-
+Obs: instalar o pacote pygame pra rodar o jogo com os sons.
+ 
 
